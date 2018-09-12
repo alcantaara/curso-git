@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Blog - João da Silva </title>
+    </head>
+
+    <body>
+        
+        <main>
+            <h1>Blog</h1>
+
+            <article>
+                <h2>O essencial de design responsivo</h2>
+
+            </article>
+
+        </main>
+        
+    </body>
+</html>
